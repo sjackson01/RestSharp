@@ -1,0 +1,17 @@
+C:\Users\Jackson7\source\repos\RestApi\RestApi\bin\Debug\net6.0\RestApi.exe
+C:\Users\Jackson7\source\repos\RestApi\RestApi\bin\Debug\net6.0\RestApi.deps.json
+C:\Users\Jackson7\source\repos\RestApi\RestApi\bin\Debug\net6.0\RestApi.runtimeconfig.json
+C:\Users\Jackson7\source\repos\RestApi\RestApi\bin\Debug\net6.0\RestApi.dll
+C:\Users\Jackson7\source\repos\RestApi\RestApi\bin\Debug\net6.0\RestApi.pdb
+C:\Users\Jackson7\source\repos\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\Jackson7\source\repos\RestApi\RestApi\obj\Debug\net6.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jackson7\source\repos\RestApi\RestApi\obj\Debug\net6.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\Jackson7\source\repos\RestApi\RestApi\obj\Debug\net6.0\RestApi.AssemblyInfo.cs
+C:\Users\Jackson7\source\repos\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Jackson7\source\repos\RestApi\RestApi\obj\Debug\net6.0\RestApi.dll
+C:\Users\Jackson7\source\repos\RestApi\RestApi\obj\Debug\net6.0\refint\RestApi.dll
+C:\Users\Jackson7\source\repos\RestApi\RestApi\obj\Debug\net6.0\RestApi.pdb
+C:\Users\Jackson7\source\repos\RestApi\RestApi\obj\Debug\net6.0\RestApi.genruntimeconfig.cache
+C:\Users\Jackson7\source\repos\RestApi\RestApi\obj\Debug\net6.0\ref\RestApi.dll
+C:\Users\Jackson7\source\repos\RestApi\RestApi\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Jackson7\source\repos\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.CopyComplete
